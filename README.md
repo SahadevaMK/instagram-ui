@@ -1,4 +1,4 @@
-# Show some ❤️ and star the repo to support the project
+# Show some ❤️ 
 # Flutter-Instagram-Profile-UI-Clone
 
 ## Features
